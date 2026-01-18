@@ -1,4 +1,4 @@
-# improper-error-handling-security-analysis
+
 Educational case study on Improper Error Handling and User Enumeration vulnerabilities. Demonstrates CVSS scoring and mitigation recommendations. No sensitive data disclosed.
 # Improper Error Handling – Security Case Study
 
@@ -72,8 +72,8 @@ about privileged roles.
 ## Author
 **Sachin Mishra**  
 Security Researcher | Bug Bounty Hunter  
-GitHub: https://github.com/<your-username>  
-LinkedIn: https://www.linkedin.com/in/<your-profile>
+GitHub: https://github.com/yash4078-ops  
+LinkedIn: https://www.linkedin.com/in/sachin-mishra-ab22113a2/
 
 ---
 
